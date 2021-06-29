@@ -1,0 +1,4 @@
+packages:
+        scaffold.cabal
+package scaffold
+  tests: True
